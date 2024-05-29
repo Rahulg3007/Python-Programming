@@ -31,4 +31,4 @@ num2=input('Enter 2nd Decimal Num:')
 print(type(num1)) # str
 print(type(num2)) # str
 
-print(float(num1)+float(num2) # 31.0
+print(float(num1)+float(num2)) # 31.0
