@@ -90,7 +90,7 @@
 # print(s.replace("python", "Java")) # Welcome to Java
 
 
-# Example 12 : Reverse Strting
+# Example 12 : Reverse String
 #Method 1
 # s="python"
 # rev_str=""
